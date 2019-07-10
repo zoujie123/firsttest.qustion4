@@ -1,0 +1,8 @@
+4.1 what do you want to get in this course?
+答：希望系统地学习人工智能的基础知识、以及各种工具、框架的运用，能够以学习到的知识独立解决一个机器视觉的问题，并且能找到一个满意的工作。
+4.2 what problems do you want to solve?
+答：我对机器视觉方面认识还比较浅显，以往自学的不够系统，难以独立完成一个项目，或者说难以运用已有知识去完成项目，希望通过比较系统的学习，在面对问题时，能很轻松、快速的想到对策。
+4.3 what advantages do you have to accomplish your goal?
+答：在硕士生读书阶段，比较系统的学习了数学方法，应该有一点基础。
+4.4 how will you plan to study in this course?
+答：每天安排2-3个小时的学习时间，主要完成课时预习、直播学习、课后推导（复习）、问题总结、题库刷题。
